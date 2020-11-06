@@ -36,3 +36,6 @@ tmp/
 
 # macOS
 *.DS_Store
+
+# Alfresco license
+src/main/docker/license/*.lic
